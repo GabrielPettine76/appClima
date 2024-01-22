@@ -1,5 +1,5 @@
 let url ='https://api.openweathermap.org/data/2.5/weather';
-let apyKey = 'cfd548fc7bad4e1afa8efa5295f62d3d';
+let apyKey = miclave;
 let kelvin = 273.15;
 
 
